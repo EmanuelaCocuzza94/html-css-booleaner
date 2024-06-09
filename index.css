@@ -1,0 +1,29 @@
+html, body {
+    margin:0%;
+    height: 100%;
+}
+
+header {
+    height: 15%;
+    background-color: #9cd6f4;
+}
+
+.size {
+    margin: 1%;
+    width: 150px;
+    height: 80px;
+}
+
+.color1 {
+    color: gray;
+    margin: 0%;
+}
+
+.color2 {
+    color:#5fa0ff;
+    margin: 0%;
+}
+
+.mg-b {
+    margin-bottom: 0%;
+}
