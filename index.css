@@ -48,6 +48,45 @@ main {
     font-size: small;
 }
 
-.table {
+.list {
     padding: 1%;
+}
+
+table {
+    padding-left: 0%;
+    padding-right: 1%;
+    width: 100%;
+}
+
+.color-w {
+    background-color: #5fa0ff;
+    color: white;
+    width: 20%;
+}
+
+.cl1 {
+background-color: gray;
+}
+
+.cl2 {
+    background-color: red;
+}
+
+footer {
+    background-color: rgb(3, 3, 56);
+    color: white;
+    text-align: center;
+    height: 5%;
+}
+
+.colonna1{
+    width: 20%;
+}
+
+.colonna2{
+    width: 20%;
+}
+
+.colonna3{
+    width: 60%;
 }
